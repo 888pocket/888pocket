@@ -5,10 +5,10 @@
 ## Skills
 <p>
   <img src="https://img.shields.io/badge/JAVA-6db33f?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6db33f?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/springsecurity-6db33f?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/spring%20security-6db33f?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/tomcat-f8dc75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/apache%20tomcat-f8dc75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 </p>
 
 <p>
@@ -28,9 +28,14 @@
 
 ## Tools
 <p>
+  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4a154b?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white">
