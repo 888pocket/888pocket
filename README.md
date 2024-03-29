@@ -41,9 +41,6 @@
   <img src="https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white">
 </p>
 
-## Badges
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=888develop888)](https://solved.ac/888develop888/)
-
 <!--
 **888pocket/888pocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
