@@ -1,7 +1,3 @@
-# Hi there 👋
-안녕하세요. 백엔드 개발자 주상아 입니다.<br/>
-기획부터 설계, 개발과 QA까지 개발 전반의 업무를 진행하며 더 나은 코드를 작성하기 위해 고민합니다.
-
 ## Skills
 <p>
   <img src="https://img.shields.io/badge/JAVA-6db33f?style=for-the-badge&logo=java&logoColor=white">
